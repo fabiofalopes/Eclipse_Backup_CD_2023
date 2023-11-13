@@ -1,0 +1,5 @@
+# Ignore other folders in eclipse-workspace
+.metadata/
+CpaFrontend/
+Servers/
+WebserviceClient/
